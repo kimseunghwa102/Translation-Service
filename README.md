@@ -3,8 +3,7 @@ Translation service is provided.
 
 ## Site address
 
-https://kimseunghwa102.github.io/kimseunghwa/
-
+https://kimseunghwa102.github.io/Translation-Service/
 
 ## service
 * Interpreter Introduction
